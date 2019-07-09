@@ -1,0 +1,4 @@
+[submodule ".deploy_git"]
+	path = .deploy_git
+	url = /Users/momo/Documents/Blog/yanbinbin.io/themes/hexo-huweihuang/.deploy_git
+    branch = gh-pages
