@@ -1,3 +1,6 @@
 [submodule ".deploy_git"]
 	path = .deploy_git
 	url = /Users/momo/Documents/Blog/yanbinbin.io/.deploy_git
+[submodule "themes/hexo-huweihuang/.deploy_git"]
+	path = themes/hexo-huweihuang/.deploy_git
+	url = /Users/momo/Documents/Blog/yanbinbin.io/themes/hexo-huweihuang/.deploy_git
